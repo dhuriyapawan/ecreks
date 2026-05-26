@@ -5,7 +5,7 @@ on:
   pull_request:
   push:
     branches:
-    - devops1
+     - devops1
 
 jobs:
   trivy-scan:
